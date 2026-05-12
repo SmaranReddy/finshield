@@ -10,10 +10,10 @@ readme = "README.md"
 license = {text = "MIT"}
 requires-python = ">=3.10"
 authors = [
-    {name = "Kunal Shaw", email = "kunalshawkol16@gmail.com"}
+    {name = "Smaran Reddy", email = "smaranreddy007@gmail.com"}
 ]
 maintainers = [
-    {name = "Kunal Shaw", email = "kunalshawkol16@gmail.com"}
+    {name = "Smaran Reddy", email = "smaranreddy007@gmail.com"}
 ]
 keywords = [
     "aml",

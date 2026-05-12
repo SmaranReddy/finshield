@@ -34,7 +34,7 @@ Follow the step-by-step guide below.
 
 ```powershell
 # In your project directory
-cd C:\Users\kunal\OneDrive\Desktop\GITHUB\FinShield-AML
+cd C:\Users\Smaran\OneDrive\Desktop\GITHUB\FinShield-AML
 
 # Initialize git if needed
 git init
